@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ブルーウォーター",
+  "base_artist": "森川美穂",
+  "createdAt": "2025-12-01T18:46:34.789793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーウォーター",
+      "artist": "森川美穂",
+      "has_synced": false,
+      "path": "select/01_ブルーウォーター_森川美穂.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーウォーター",
+      "artist": "東京ブラススタイル",
+      "has_synced": false,
+      "path": "select/02_ブルーウォーター_東京ブラススタイル.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブルーウォーター",
+      "artist": "森川美穂",
+      "has_synced": true,
+      "path": "select/03_ブルーウォーター_森川美穂.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブルーウォーター",
+      "artist": "下川みくに",
+      "has_synced": false,
+      "path": "select/04_ブルーウォーター_下川みくに.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブルーウォーター",
+      "artist": "marble",
+      "has_synced": false,
+      "path": "select/05_ブルーウォーター_marble.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーウォーター",
+      "artist": "森川 美穂",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーウォーター_森川_美穂.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ブルーウォーター",
+      "artist": "森川 美穂",
+      "has_synced": false,
+      "path": "select/pl_02_ブルーウォーター_森川_美穂.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ブルーウォーター",
+      "artist": "森川 美穂",
+      "has_synced": false,
+      "path": "select/pl_03_ブルーウォーター_森川_美穂.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ブルーウォ-ター",
+      "artist": "森川 美穂",
+      "has_synced": false,
+      "path": "select/pl_04_ブルーウォ-ター_森川_美穂.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Bluewater",
+      "artist": "森川 美穂",
+      "has_synced": false,
+      "path": "select/pl_05_Bluewater_森川_美穂.txt"
+    }
+  ]
+}
